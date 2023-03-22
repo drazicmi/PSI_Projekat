@@ -1,1 +1,4 @@
-# OOP2_domaci_zadatak_V1
+# PSI_PROJEKAT
+
+
+The point of this project is to learn working in a team, and how to make a proper documentation when building an aplication.
